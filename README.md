@@ -4,6 +4,15 @@ Some projects trained using OpenAI gym environments using DeepQ learning. This r
 ## LetsBreakSuma vs Deep Q
 An on going project whereby a Deep Q learning algorithm attempts to solve a game environment created by Suma Amreiz. Link to created game can be found here: https://github.com/Amreiz/LetsBreakSuma. How to launch and test the AI coming soon!
 
+### Project stats:
+1) Image pre-processing (Complete)
+2) Action space formatting (Complete)
+3) Action space mapping
+4) Fully connected network skeleton(Complete)
+5) Reward state and mapping
+6) Train AI
+7) Video Demo
+
 ## Fully connected version
 Video demos on the AI playing the Atari breakout game from OpenAI gym environment using a fully connected neural network
 
