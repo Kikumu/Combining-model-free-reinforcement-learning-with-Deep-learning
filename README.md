@@ -9,7 +9,7 @@ An on going project whereby a Deep Q learning algorithm attempts to solve a game
 2) Action space formatting (Complete)
 3) Action space mapping
 4) Fully connected network skeleton(Complete)
-5) Reward state and mapping
+5) Reward state and mapping(Complete)
 6) Train AI
 7) Video Demo
 
