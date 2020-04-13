@@ -7,7 +7,7 @@ An on going project whereby a Deep Q learning algorithm attempts to solve a game
 ### Project stats:
 1) Image pre-processing (Complete)
 2) Action space formatting (Complete)
-3) Action space mapping
+3) Action space mapping(Complete)
 4) Fully connected network skeleton(Complete)
 5) Reward state and mapping(Complete)
 6) Train AI
