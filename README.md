@@ -10,7 +10,7 @@ An on going project whereby a Deep Q learning algorithm attempts to solve a game
 3) Action space mapping(Complete)
 4) Fully connected network skeleton(Complete)
 5) Reward state and mapping(Complete)
-6) Environment training space design algorithm(80% complete!)
+6) Environment training space design algorithm(Complete)
 7) Train AI
 8) Video Demo
 
