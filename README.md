@@ -18,7 +18,7 @@ Short Demonstation video of the AI model in action can be found here: https://ww
 
 NOTE: Video editing in progress! Just tring it out :D
 #### Current bug/error
-End state mismatch
+End state mismatch **fixed**
 
 ## Fully connected version
 Video demos on the AI playing the Atari breakout game from OpenAI gym environment using a fully connected neural network
