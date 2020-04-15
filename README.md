@@ -11,8 +11,8 @@ An on going project whereby a Deep Q learning algorithm attempts to solve a game
 4) Fully connected network skeleton(Complete)
 5) Reward state and mapping(Complete)
 6) Environment training space design algorithm(Complete)
-7) Train AI(In progress..........)
-8) Video Demo
+7) Train AI(100 games)(Complete!)
+8) Video Demo(Complete!)
 
 ## Fully connected version
 Video demos on the AI playing the Atari breakout game from OpenAI gym environment using a fully connected neural network
