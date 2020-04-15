@@ -14,6 +14,7 @@ An on going project whereby a Deep Q learning algorithm attempts to solve a game
 7) Train AI(100 games)(Complete!)
 8) Video Demo(Complete!)
 
+Short Demonstation video of the AI model in action can be found here: https://www.youtube.com/watch?v=sOd5f7saGts
 ## Fully connected version
 Video demos on the AI playing the Atari breakout game from OpenAI gym environment using a fully connected neural network
 
