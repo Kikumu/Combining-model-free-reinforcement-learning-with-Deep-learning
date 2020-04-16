@@ -14,9 +14,8 @@ An on going project whereby a Deep Q learning algorithm attempts to solve a game
 7) Train AI(100 games)(Complete!)
 8) Video Demo(Complete!)
 
-Short Demonstation video of the AI model in action can be found here: https://www.youtube.com/watch?v=sOd5f7saGts
+Short Demonstation video of the AI model in action can be found here: https://youtu.be/TJhAUeAj1zg
 
-NOTE: Video editing in progress! Just tring it out :D
 #### Current bug/error
 End state mismatch **fixed**
 
