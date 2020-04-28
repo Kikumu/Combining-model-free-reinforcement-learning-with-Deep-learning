@@ -27,11 +27,11 @@ Video demos on the AI playing the Atari breakout game from OpenAI gym environmen
 ## Requirements.
 Unity hub, python 3, Jupyter notebook
 ### Pip installations.
---pip install jupyter notebook
---pip install torch
---pip install pyautogui
---pip install PIL
---pip install mss
+1) pip install jupyter notebook
+2) pip install torch
+3) pip install pyautogui
+4) pip install PIL
+5) pip install mss
 
 
 ## How to use(currently documenting this...)
