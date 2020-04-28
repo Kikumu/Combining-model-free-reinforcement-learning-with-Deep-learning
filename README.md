@@ -27,6 +27,6 @@ Video demos on the AI playing the Atari breakout game from OpenAI gym environmen
 ## Requirements
 Unity hub. Jupyter notebook
 
-## How to use
+## How to use(currently documenting this...)
 
 
