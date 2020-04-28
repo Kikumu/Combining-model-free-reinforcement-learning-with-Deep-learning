@@ -22,7 +22,7 @@ Short Demonstation video of the AI model in action can be found here: https://yo
 2) **Environment end and start not matching properly. Currently working on it!**
 
 ## Fully connected version.
-Video demos on the AI playing the Atari breakout game from OpenAI gym environment using a fully connected neural network
+Video demos on the AI playing the Atari breakout game from OpenAI gym environment and Suma's "Lets Break Suma!" game using a fully connected neural network.
 
 ## Requirements.
 Unity hub, python 3, Jupyter notebook
