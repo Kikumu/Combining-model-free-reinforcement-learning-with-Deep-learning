@@ -24,4 +24,7 @@ Short Demonstation video of the AI model in action can be found here: https://yo
 ## Fully connected version
 Video demos on the AI playing the Atari breakout game from OpenAI gym environment using a fully connected neural network
 
+## Requirements
+Unity hub. Jupyter notebook
+
 
