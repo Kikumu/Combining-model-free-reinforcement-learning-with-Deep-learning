@@ -34,6 +34,6 @@ Unity hub, python 3, Jupyter notebook
 5) pip install mss
 
 
-## How to use(currently documenting this...)
+See https://kikumu.github.io/portfolio/deeprl.html for more details and video demonstration!
 
 
